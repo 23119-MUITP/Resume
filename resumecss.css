@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(251, 251, 251);
+    color: rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.name {
+    color:rgb(173, 188, 74);
+    font-size: 40px;
+}
+
+#sdu {
+    color: blanchedalmond;
+    font-size: 15px;
+}
+
+.name-container {
+    text-align: center;
+    padding: 50px;
+    margin: 50px ;
+}
